@@ -1,0 +1,11 @@
+<players root="gfx/characters/costumes/"
+         portraitroot="gfx/ui/boss/"
+         nameimageroot="gfx/ui/boss/"
+         bigportraitroot="gfx/ui/stage/">
+	<player name="Nyman" skin="character_nyman.png" hp="2" armor="2" bombs="1" keys="1"
+          nameimage="PlayerName_Nyman.png"
+          portrait="PlayerPortrait_Nyman.png"
+          bigportrait="PlayerPortraitBig_Nyman.png"
+		  birthright="not done"
+          skinColor="-1" />
+</players>
