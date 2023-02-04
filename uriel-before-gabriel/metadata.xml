@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Uriel before Gabriel</name>
+    <directory>uriel-before-gabriel</directory>
+    <id>2927760501</id>
+    <description>This mod will guarantee Uriel as your first angel fight and Gabriel as your second.</description>
+    <version>1.4</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Bosses"/>
+    <tag id="Tweaks"/>
+</metadata>
