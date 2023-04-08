@@ -1,0 +1,3 @@
+<costumes anm2root="gfx/characters/">
+  <costume anm2path="blindfold.anm2" type="passive" priority="10" />
+</costumes>

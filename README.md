@@ -11,3 +11,7 @@ A playable character that starts with Smelter and a random trinket.
 ### [Uriel before Gabriel](./uriel-before-gabriel/)
 
 Forces Uriel to be the first angel fight and Gabriel as the 2nd.
+
+### [Blindfold](./blindfold/)
+
+Adds the blindfold item used for challenges in the game as an item.

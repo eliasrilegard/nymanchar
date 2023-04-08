@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<items version="1" gfxroot="gfx/items/">
+  <passive cache="" description='"Immunity to darkness"' name="Blindfold" gfx="blindfold.png" quality="0" /> <!-- Immunity to darkness -->
+</items>
